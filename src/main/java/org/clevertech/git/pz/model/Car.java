@@ -5,4 +5,6 @@ public class Car {
     private Engine engine;
 
     private Boombox boombox;
+
+    private FuelTank fuelTank;
 }

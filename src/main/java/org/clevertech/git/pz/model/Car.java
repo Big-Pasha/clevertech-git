@@ -7,4 +7,6 @@ public class Car {
     private Boombox boombox;
 
     private FuelTank fuelTank;
+
+    private String color;
 }

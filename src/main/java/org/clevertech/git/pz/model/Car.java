@@ -3,7 +3,7 @@ package org.clevertech.git.pz.model;
 public class Car {
 
     enum TransmissionType {
-        MANUAL, AUTOMATIC
+        MANUAL, AUTOMATIC, TIPTRONIC
     }
 
     private Engine engine;
